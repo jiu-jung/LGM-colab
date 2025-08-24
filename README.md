@@ -30,4 +30,4 @@ This Colab notebook is entirely based on the incredible research and publicly av
 
 ## 💬 Issues and Contributions
 - For any issues or questions related to the **Colab execution environment**, please open an issue in this repository.
-- For any issues, questions, or contributions related to the **core LGM model or its algorithm**, please refer to the **official LGM GitHub repository**.
+- For any issues, questions, or contributions related to the **core LGM model or its algorithm**, please refer to the [Official LGM GitHub Repository](https://github.com/3DTopia/LGM).
