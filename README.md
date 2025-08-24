@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/jiu31/LGM-colab/blob/main/lgm.ipynb))
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([LICENSE](https://github.com/jiu-jung/LGM-colab/blob/main/LICENSE))
 
 This repository provides a Google Colab notebook to easily run the **official implementation** of the **LGM (Large Multi-View Gaussian Model)**.
 
